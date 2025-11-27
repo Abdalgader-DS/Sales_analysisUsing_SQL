@@ -1,5 +1,5 @@
-Ssles analysis SQL project 
-  *ehe project description* 
+Sales analysis SQL project 
+  *the project description* 
     This project analyzing sales dataset using SQL 
       This dataset includes four main table 
         - customers 
